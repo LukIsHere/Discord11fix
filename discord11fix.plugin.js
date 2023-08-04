@@ -5,9 +5,9 @@
  * @invite PwmVfK94zc
  * @version 1.0.1
  * @description Makes new bouble messages work
- * @website maybe later?
- * @source maybe later?
- * @updateUrl maybe later?
+ * @website https://github.com/LukIsHere/Discord11fix
+ * @source https://raw.githubusercontent.com/LukIsHere/Discord11fix/main/discord11fix.plugin.js
+ * @updateUrl https://raw.githubusercontent.com/LukIsHere/Discord11fix/main/discord11fix.plugin.js
  */
 
 module.exports = class MyPlugin {
